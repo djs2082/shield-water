@@ -9,14 +9,14 @@ It was developed for SIH 2020 competition in hardware category.
 2)It shows live graphical representation of Turbidity, Ph and waterflow rate.  
 3)Authorities can easily monitor and detect water leak at any pipeline by observing graph only.  
 
-# Technologies
+## Technologies
 
 1)PHP 
 2)HTML/CSS/JavaScript(AJAX)
 3)MySql database  
 4)Aurdino Programming
 
-# Hardwares Required
+## Hardwares Required
 
 1)Aurdionos
 2)Rasberry Pi
